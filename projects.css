@@ -1,0 +1,36 @@
+body{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    background-color: black;
+}
+#content{
+
+    width: 300px;
+    height: 300px;
+    text-align: center;
+    margin-top: 175px;
+    box-sizing: border-box;
+    padding: 40px;
+}
+#content2{
+    margin-top: 50px;
+}
+#number{
+    color: white;
+    font-size: 125px;
+    margin: 0;
+}
+button{
+    color: white;
+    background-color: black;
+    width: 60px;
+    height: 25px;
+    border-radius: 5px;
+    margin-left: 10px;
+}
+button:hover{
+    color: rgb(176, 63, 0);
+    
+}
